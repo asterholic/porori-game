@@ -219,7 +219,7 @@ section.page>.howto>.txt>p>.neoburi{
     width: 100px;
     height: 90px;
     margin-left: -50px;
-    background-image: url(../images/gameover.png);
+    background-image: url(../images/yourscore.png);
     background-size: contain;
     background-repeat: no-repeat;
     z-index: 2000;
